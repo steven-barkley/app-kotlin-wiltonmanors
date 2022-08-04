@@ -11,6 +11,8 @@ Idea for push notifications was brought up at director's meeting. The Library is
 
 Other City Apps : SaferWatch , LauderServ, Lauderdale By the Sea
 
+Other City Publications : Town Crier
+
 
 ## Project Work Hours
 
