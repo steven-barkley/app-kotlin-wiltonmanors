@@ -10,7 +10,8 @@
 | Date  | Hours |  | Center Align |
 | :---------: | :----------: | :----------: |
 
-| Date | Number of Hours Volunteered | Volunteer |
+| Date | Number of Hours Volunteered | Progression |
 | --------------- | --------------- | --------------- |
-| 8/4/2022 | 1 hour | Steven Barkley |
+| 8/4/2022 | 1 hour | Face to Face with David @ library |
+| 8/4/2022 | 1 hour | Project initialization on Github |
 
