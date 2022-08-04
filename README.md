@@ -7,7 +7,7 @@
 
 #### Project end date 10/4/2022 
 
-| Date  | Hours |  | Center Align |
+| Date  | Hours  | Center Align |
 | :---------: | :----------: | :----------: |
 
 | Date | Number of Hours Volunteered | Progression |
