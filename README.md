@@ -31,6 +31,8 @@ Add the argument and type to the function definition: printBorder(border: String
 Use the argument inside the function: println(border)
 Supply the argument when you call the function: printBorder(border)
 
+## Add image here
+
 ## Project Work Hours
 
 | Date | Number of Hours Volunteered | Progression |
