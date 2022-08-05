@@ -60,4 +60,4 @@ Implement a task to update the app widget periodically
 Create and display a notification to the user
 That’s the syllabus as stated on google’s official examination page
 
-Good Luck !
+Good Luck !!
