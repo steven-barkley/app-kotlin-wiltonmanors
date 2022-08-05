@@ -20,6 +20,7 @@ Other City Publications : Town Crier
 | --------------- | --------------- | --------------- |
 | 8/4/2022 | 1 hour | Face to Face with David @ library |
 | 8/4/2022 | 1 hour | Project initialization on Github |
+| 8/5/2022 | 2 hour | Learning [Kotlin](https://developer.android.com/courses/pathways) |
 
 
 ### Project end date 10/4/2022 
