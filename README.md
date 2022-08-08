@@ -31,6 +31,17 @@ Add the argument and type to the function definition: printBorder(border: String
 Use the argument inside the function: println(border)
 Supply the argument when you call the function: printBorder(border)
 
+
+### 8/8/2022
+
+Add a Button in an Android app using the Layout Editor.
+Modify the MainActivity.kt class to add interactive behavior to the app.
+Pop up a Toast message as a temporary solution to verify you're on the right track.
+Set an on-click listener for a Button using setOnClickListener() to add behavior for when a Button is clicked.
+When the app is running, you can update the screen by calling methods on the TextView, Button, or other UI elements in the layout.
+Comment your code to help other people who are reading your code understand what your approach was.
+Reformat your code and clean up your code.
+
 ## Add image here
 
 ## Project Work Hours
@@ -39,7 +50,7 @@ Supply the argument when you call the function: printBorder(border)
 | --------------- | --------------- | --------------- |
 | 8/4/2022 | 1 hour | Face to Face with David @ library |
 | 8/4/2022 | 1 hour | Project initialization on Github |
-| 8/5/2022 | 10 hour | Learning [Kotlin](https://developer.android.com/courses/pathways) |
-
+| 8/5/2022 | 10 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
+| 8/8/2022 | 2 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
 
 ### Project end date 10/4/2022 
