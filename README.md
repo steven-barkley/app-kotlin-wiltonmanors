@@ -42,6 +42,11 @@ When the app is running, you can update the screen by calling methods on the Tex
 Comment your code to help other people who are reading your code understand what your approach was.
 Reformat your code and clean up your code.
 
+### 8/8/2022
+
+Use setImageResource() to change the image that's displayed in an ImageView
+Use control flow statements like if / else expressions or when expressions to handle different cases in your app, for example, showing different images under different circumstances.
+
 ## Add image here
 
 ## Project Work Hours
@@ -52,5 +57,7 @@ Reformat your code and clean up your code.
 | 8/4/2022 | 1 hour | Project initialization on Github |
 | 8/5/2022 | 10 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
 | 8/8/2022 | 2 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
+| 8/9/2022 | 2 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
+
 
 ### Project end date 10/4/2022 
