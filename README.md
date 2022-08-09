@@ -56,8 +56,8 @@ Use control flow statements like if / else expressions or when expressions to ha
 | 8/4/2022 | 1 hour | Face to Face with David @ library |
 | 8/4/2022 | 1 hour | Project initialization on Github |
 | 8/5/2022 | 10 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
-| 8/8/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
-| 8/9/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
+| 8/8/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Happy Birthday App |
+| 8/9/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Dice Roller App |
 
 
 ### Project end date 10/4/2022 
