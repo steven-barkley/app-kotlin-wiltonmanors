@@ -47,6 +47,14 @@ Reformat your code and clean up your code.
 Use setImageResource() to change the image that's displayed in an ImageView
 Use control flow statements like if / else expressions or when expressions to handle different cases in your app, for example, showing different images under different circumstances.
 
+You learned:
+
+The importance of testing.
+What a unit test looks like.
+How to run a unit test.
+Some common testing syntax.
+How to write a unit test.
+
 ## Add image here
 
 ## Project Work Hours
