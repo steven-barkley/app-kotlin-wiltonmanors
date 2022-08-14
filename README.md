@@ -67,6 +67,8 @@ How to write a unit test.
 | 8/8/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Happy Birthday App |
 | 8/9/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Dice Roller App |
 | 8/10/2022 | 1 hours | Wilton Manors Volunteer Application |
+| 8/13/2022 | 1 hours | Wilton Manors Volunteer Application |
+
 
 
 ### Project end date 10/4/2022 
