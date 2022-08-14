@@ -69,6 +69,9 @@ How to write a unit test.
 | 8/10/2022 | 1 hours | Wilton Manors Volunteer Application |
 | 8/13/2022 | 1 hours | Wilton Manors Volunteer Application |
 
+8/14/2022 
+
+Creating backend functionality. Creating chief application activity. CRUD. 
 
 
 ### Project end date 10/4/2022 
