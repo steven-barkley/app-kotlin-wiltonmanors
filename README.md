@@ -68,10 +68,16 @@ How to write a unit test.
 | 8/9/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Dice Roller App |
 | 8/10/2022 | 1 hours | Wilton Manors Volunteer Application |
 | 8/13/2022 | 1 hours | Wilton Manors Volunteer Application |
+| 8/15/2022 |5 hours | Using Youtube and troubleshooting on Stackoverflow|
+| 8/16/2022 |5 hours | UX discovery using HNL.info as example|
 
-8/14/2022 
 
+8/15/2022
 Creating backend functionality. Creating chief application activity. CRUD. 
+
+8/16/2022
+
+Planning out UX of application. MVP.
 
 
 ### Project end date 10/4/2022 
