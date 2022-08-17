@@ -1,6 +1,20 @@
 # app-kotlin-wiltonmanors
 ## Design a mobile app for the city of Wilton Manors.
 
+### Summary of progress
+
+| Date | Number of Hours Volunteered | Progression |
+| --------------- | --------------- | --------------- |
+| 8/4/2022 | 1 hour | Face to Face with David @ library |
+| 8/4/2022 | 1 hour | Project initialization on Github |
+| 8/5/2022 | 10 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
+| 8/8/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Happy Birthday App |
+| 8/9/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Dice Roller App |
+| 8/10/2022 | 1 hours | Wilton Manors Volunteer Application |
+| 8/13/2022 | 1 hours | Wilton Manors Volunteer Application |
+| 8/15/2022 |5 hours | Using Youtube and troubleshooting and Stackoverflow building toward MVP|
+| 8/16/2022 |5 hours | UX discovery using HNL.info as example|
+
 ### Project start date 8/4/2022
 
 ### 8/4/2022 
@@ -31,7 +45,6 @@ Add the argument and type to the function definition: printBorder(border: String
 Use the argument inside the function: println(border)
 Supply the argument when you call the function: printBorder(border)
 
-
 ### 8/8/2022
 
 Add a Button in an Android app using the Layout Editor.
@@ -59,17 +72,6 @@ How to write a unit test.
 
 ## Project Work Hours
 
-| Date | Number of Hours Volunteered | Progression |
-| --------------- | --------------- | --------------- |
-| 8/4/2022 | 1 hour | Face to Face with David @ library |
-| 8/4/2022 | 1 hour | Project initialization on Github |
-| 8/5/2022 | 10 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) |
-| 8/8/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Happy Birthday App |
-| 8/9/2022 | 4 hours | Learning [Kotlin](https://developer.android.com/courses/pathways) Dice Roller App |
-| 8/10/2022 | 1 hours | Wilton Manors Volunteer Application |
-| 8/13/2022 | 1 hours | Wilton Manors Volunteer Application |
-| 8/15/2022 |5 hours | Using Youtube and troubleshooting on Stackoverflow|
-| 8/16/2022 |5 hours | UX discovery using HNL.info as example|
 
 
 8/15/2022
