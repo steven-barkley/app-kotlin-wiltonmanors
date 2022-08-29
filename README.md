@@ -81,5 +81,9 @@ Creating backend functionality. Creating chief application activity. CRUD.
 
 Planning out UX of application. MVP.
 
+8/29/ 2022
+
+Contacted Paul Rolli. Create Video and uploaded banner for Youtube. Will resume working on UX of application today and chronicle my progress. 
+
 
 ### Project end date 10/4/2022 
