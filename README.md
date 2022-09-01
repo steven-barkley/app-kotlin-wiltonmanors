@@ -85,5 +85,9 @@ Planning out UX of application. MVP.
 
 Contacted Paul Rolli. Create Video and uploaded banner for Youtube. Will resume working on UX of application today and chronicle my progress. 
 
+8/31/2022
+
+Create User Persona for David Larsen Library Director
+
 
 ### Project end date 10/4/2022 
