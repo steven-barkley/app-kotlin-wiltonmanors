@@ -14,6 +14,9 @@
 | 8/13/2022 | 1 hours | Wilton Manors Volunteer Application |
 | 8/15/2022 |5 hours | Using Youtube and troubleshooting and Stackoverflow building toward MVP|
 | 8/16/2022 |5 hours | UX discovery using HNL.info as example|
+| 8/29/2022 |5 hours |Networking|
+| 8/30/2022 |5 hours |Personas|
+| 9/8/2022 |5 hours |User testing|
 
 ### Project start date 8/4/2022
 
@@ -89,5 +92,9 @@ Contacted Paul Rolli. Create Video and uploaded banner for Youtube. Will resume 
 
 Create User Persona for David Larsen Library Director
 
+
+9/15/2022
+
+Meeting with David Larson at Local Library to discuss design 
 
 ### Project end date 10/4/2022 
