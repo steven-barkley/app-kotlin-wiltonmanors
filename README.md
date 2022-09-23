@@ -97,4 +97,12 @@ Create User Persona for David Larsen Library Director
 
 Meeting with David Larson at Local Library to discuss design 
 
+9/22/2022
+
+UX Design Audit
+
+9/23/2022
+
+UX Compeititve Audit - LauderServe, Lauderdale By the Sea, SaferWatch
+
 ### Project end date 10/4/2022 
