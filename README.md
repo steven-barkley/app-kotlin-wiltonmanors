@@ -1,4 +1,4 @@
-# app-kotlin-wiltonmanors
+# wiltonmanors-app-web
 ## Design a mobile app for the city of Wilton Manors.
 
 ### Summary of progress
