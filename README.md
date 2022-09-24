@@ -105,4 +105,8 @@ UX Design Audit
 
 UX Compeititve Audit - LauderServe, Lauderdale By the Sea, SaferWatch
 
+9/24/2022
+
+Researched UX technical papers and smart cities design tips
+
 ### Project end date 10/4/2022 
